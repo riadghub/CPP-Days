@@ -20,6 +20,4 @@
 
 ## Quick Demo
 ```bash
-make cpp04          # Diamond trap
-make cpp07          # Template iter
-make cpp09          # Bitcoin exchange
+cd CPPxx && make
