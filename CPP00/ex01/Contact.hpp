@@ -1,0 +1,44 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   Contact.hpp                                        :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: reeer-aa <reeer-aa@student.42.fr>          +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2025/07/31 12:27:35 by reeer-aa          #+#    #+#             */
+/*   Updated: 2025/08/01 11:48:46 by reeer-aa         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
+#pragma once
+#include <iostream>
+#include <string>
+
+class Contact
+{
+  private:
+	std::string firstName;
+	std::string lastName;
+	std::string nickname;
+	std::string phoneNumber;
+	std::string darkestSecret;
+
+  public:
+	Contact(void)
+	{
+	}
+	~Contact(void)
+	{
+	}
+	void setFirstName(std::string s);
+	void setLastName(std::string s);
+	void setNickname(std::string s);
+	void setPhoneNumber(std::string s);
+	void setDarkestSecret(std::string s);
+
+	std::string getFirstName(void);
+	std::string getLastName(void);
+	std::string getNickname(void);
+	std::string getPhoneNumber(void);
+	std::string getDarkestSecret(void);
+};
