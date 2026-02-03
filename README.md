@@ -1,6 +1,6 @@
 # CPP-Days - 42 School
 
-**C++98 de zéro à expert** : 9 modules CPP, templates, STL.
+**C++98** : 9 modules CPP, templates, STL.
 
 ![Badges](https://img.shields.io/badge/C%2B%2B-98-green?style=flat-square&logo=cplusplus) ![STL](https://img.shields.io/badge/STL-Containers-blue?style=flat-square)
 
