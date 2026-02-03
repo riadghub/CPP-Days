@@ -1,8 +1,8 @@
-# CPP-Days - 42 School (C++98 Full Modules)
+# CPP-Days - 42 School
 
 **C++98 de zéro à expert** : 9 modules CPP, templates, STL.
 
-![Badges](https://img.shields.io/badge/C%2B%2B-98-green?style=flat-square&logo=cplusplus) ![STL](https://img.shields.io/badge/STL-Containers-blue?style=flat-square) ![OOP](https://img.shields.io/badge/125%2F125-orange?style=flat-square)
+![Badges](https://img.shields.io/badge/C%2B%2B-98-green?style=flat-square&logo=cplusplus) ![STL](https://img.shields.io/badge/STL-Containers-blue?style=flat-square)
 
 ## Modules
 | Module | Concepts clés | Exemples |
